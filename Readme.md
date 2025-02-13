@@ -20,7 +20,7 @@ The system consists of **three key components**:
 
 ### 📌 **Architecture Diagram**
 
-![Sharded Counter Architecture](./images/archi.png)
+![Sharded Counter Architecture](./images/new.drawio.png)
 
 ## ⚙ **How It Works**
 
